@@ -1,8 +1,8 @@
 <p align="center"> 
- <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=1200&pause=1000&color=B3B3B3&background=A1691900&center=true&vCenter=true&width=438&height=53&lines=Hello+again.;Long+time+no..;Whatever+it+is+we+do.;I+missed+you..+where+did+you+go..%3F;Did+you+leave%2C+or+did+I%3F" alt="Typing SVG" </p> 
+ <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=2005&pause=1000&color=5B4C71&center=true&vCenter=true&width=435&lines=I+told+you%2C+Parrot;But+you+didn't+listen.;+I+know+exactly+who+you+are.;I+know+how+you+work%2C;how+you+think%2C+how+you+act.;You're+too+predictable.+;And+that's+the+difference+between+us.;You+can't+predict.+;You+can't+know.+;+You+can't+win+against+someone;Who+doesn't+even+exist." alt="Typing SVG" </p> 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif" width="400">
+  <img src="https://i.pinimg.com/736x/ea/4e/11/ea4e112c0a60d1640df490e7e859a746.jpg" width="400">
 </p>
 
 <p align="center">
