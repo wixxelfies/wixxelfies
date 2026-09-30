@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=1200&pause=1000&color=B3B3B3&background=A1691900&center=true&vCenter=true&width=438&height=53&lines=Hello+again.;Long+time+no..;Whatever+it+is+we+do.;I+missed+you..+where+did+you+go..%3F;Did+you+leave%2C+or+did+I%3F" alt="Typing SVG" </p> 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/ad/ef/81adef4e33b359945e5f11117166b5fc.gif" width="400">
+  <img src="https://i.pinimg.com/736x/01/22/2e/01222ed15a73ea2fe96522bfe9748cd1.jpg" width="400">
 </p>
 
 <p align="center">
