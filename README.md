@@ -7,7 +7,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&duration=2005&pause=1000&color=5B4C71&center=true&vCenter=true&width=435&lines=I+told+you%2C+Parrot;But+you+didn't+listen.;+I+know+exactly+who+you+are.;I+know+how+you+work%2C;how+you+think%2C+how+you+act.;You're+too+predictable.+;And+that's+the+difference+between+us.;You+can't+predict.+;You+can't+know.+;+You+can't+win+against+someone;Who+doesn't+even+exist." alt="Typing SVG" </p> 
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/506b3aeb739b60936ce7745256810169/57b96cca8919bdb4-c5/s2048x3072/d8b2c9090ce17c814f9711132c9355f2ec345ec9.gifv" width="400">
+  <img src="https://64.media.tumblr.com/c73686db37cc3446ecc24eb584c8342d/57b96cca8919bdb4-8d/s1280x1920/34ed56af7c578e9544c7c87ff89bd4dae88df1f6.pnj" width="300">
 </p>
 
 <p align="center">
