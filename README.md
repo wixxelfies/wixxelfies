@@ -15,7 +15,7 @@
 </p>
 
  <p align="center"> $\color{#9184b8}{\textsf{𝙷𝚎𝚊𝚍    𝚝𝚘    𝚖𝚊𝚒𝚗    𝚏𝚘𝚛    𝚖𝚘𝚛𝚎}}$
-<p align="center">   $${\color{purple}"ℑ𝔣 \space \space \space \space \color{purple}ℑ \space \space \space \space \color{purple}𝔥𝔞𝔡 \space \space \space \space \color{purple}𝔞 \space  \space \space \space \color{purple}𝔫𝔦𝔠𝔨𝔢𝔩 \space \space \space \space \color{purple}𝔣𝔬𝔯 \space \space \space \space \color{purple}𝔢𝔳𝔢𝔯𝔶 \space  \space \space \space \color{purple}𝔱𝔦𝔪𝔢 \space \space \space \space \color{purple}𝔱𝔥𝔞𝔱 \space \space \space \space \color{purple}𝔥𝔞𝔭𝔭𝔢𝔫𝔢𝔡 \space \color{purple}.\space \color{purple}.\space \color{purple}. \space  \space \space \space \color{purple}ℑ \space \space \space \space \color{purple}𝔴𝔬𝔲𝔩𝔡𝔫'𝔱 \space  \space \space \space \color{purple}𝔥𝔞𝔳𝔢 \space \space \space \space \color{purple}𝔬𝔫𝔢."}$$
+<p align="center">   $\color{#9184b8}{\textsf{"𝕴 𝖓𝖊𝖊𝖉 𝖞𝖔𝖚 𝖙𝖔 𝖕𝖗𝖔𝖒𝖎𝖘𝖊 𝖒𝖊 𝕻𝖆𝖗𝖗𝖔𝖙, 𝖙𝖍𝖆𝖙 𝖎𝖋 𝖆𝖓𝖞𝖙𝖍𝖎𝖓𝖌 𝖎𝖘 𝖙𝖔 𝖍𝖆𝖕𝖕𝖊𝖓, 𝖞𝖔𝖚 𝖐𝖊𝖊𝖕 𝖑𝖎𝖌𝖍𝖙𝖎𝖓𝖌 𝖙𝖍𝖊 𝖇𝖊𝖆𝖈𝖔𝖓𝖘."}}$
  <p align="center">  $${\color{purple}artist \space \space \space \space \color{purple}creds \space \space \space \space \color{purple}:⠀\space \space \space \space \color{purple}“ \space \space \space \space \color{purple}playfulgambit \space \space \space \space \color{purple}on \space \space \space \space \color{purple}twt. \space \space \space \space \color{purple}”}$$
   
 <p align="center">
