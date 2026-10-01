@@ -25,7 +25,7 @@
   <img src="https://64.media.tumblr.com/ad51a76c948907fed3947943024ed52a/57b96cca8919bdb4-92/s2048x3072/4a31d439b644bf830e78d9bd990ab4519459fed9.gifv" width="400">
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-stevhrn&amp;color=5f4773&amp;label=꣑ৎ" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-stevhrn&amp;color=9184b8&amp;label=꣑ৎ" alt=""></p>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/3c0b4e2306566e8ccf99926dc1a9effe/57b96cca8919bdb4-42/s2048x3072/5d63b4413389d9f1b67ad0934720eb5d22ab0dc3.pnj" width="600">
