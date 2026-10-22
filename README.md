@@ -19,7 +19,7 @@
  <p align="center"> $\color{#9184b8}{\textsf{𝒂𝒓𝒕𝒊𝒔𝒕 𝒄𝒓𝒆𝒅𝒔 : " 𝒑𝒍𝒂𝒚𝒇𝒖𝒍𝒈𝒂𝒎𝒃𝒊𝒕 𝒐𝒏 𝒕𝒘𝒕. "}}$
   
 <p align="center">
-  <img src="https://adriansblinkiecollection.neocities.org/f68.gif" width="120">  <img src="https://adriansblinkiecollection.neocities.org/f80.gif" width="120"> <img src="https://adriansblinkiecollection.neocities.org/f2.gif" width="120">
+  <img src="https://64.media.tumblr.com/a06163680c14e7e9c1166a64c5af85d1/77595176b8b7c5b9-5d/s250x400/c496da8b4de248db9a03ccb453410916885c8b5b.gifv" width="120">  <img src="https://adriansblinkiecollection.neocities.org/f80.gif" width="120"> <img src="https://adriansblinkiecollection.neocities.org/f2.gif" width="120">
 
 <p align="center">
   <img src="https://64.media.tumblr.com/ad51a76c948907fed3947943024ed52a/57b96cca8919bdb4-92/s2048x3072/4a31d439b644bf830e78d9bd990ab4519459fed9.gifv" width="400">
